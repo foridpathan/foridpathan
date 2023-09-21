@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Faridul Islam</h1>
-<h3 align="center">I am a Front End Development Lead Engineer at Toffee, Banglalink. I completed a bachelor's degree in computer science in engineering.</h3>
+# Hi 👋, I'm Faridul Islam
+## I am a Front End Development Lead Engineer at Toffee, Banglalink. I completed a bachelor's degree in computer science in engineering.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foridpathan&label=Profile%20views&color=0e75b6&style=flat" alt="foridpathan" /> </p>
+<img src="https://komarev.com/ghpvc/?username=foridpathan&label=Profile%20views&color=0e75b6&style=flat" alt="foridpathan" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foridpathan" alt="foridpathan" /></a> </p>
+[<img src="https://github-profile-trophy.vercel.app/?username=foridpathan" alt="foridpathan" />](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/forid45" target="blank"><img src="https://img.shields.io/twitter/follow/forid45?logo=twitter&style=for-the-badge" alt="forid45" /></a> </p>
 
