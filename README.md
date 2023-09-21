@@ -3,10 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=foridpathan&label=Profile%20views&color=0e75b6&style=flat" alt="foridpathan" />
 
-[<img src="https://github-profile-trophy.vercel.app/?username=foridpathan" alt="foridpathan" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-profile-trophy.vercel.app/?username=foridpathan" alt="foridpathan" />](https://github.com/foridpathan?tab=repositories)
 
-
-<p align="left"> <a href="https://twitter.com/forid45" target="blank"><img src="https://img.shields.io/twitter/follow/forid45?logo=twitter&style=for-the-badge" alt="forid45" /></a> </p>
+[<img src="https://img.shields.io/twitter/follow/forid45?logo=twitter&style=for-the-badge" alt="forid45" />](https://twitter.com/forid45){:target="_blank" rel="noopener"}
 
 - 🔭 I’m currently working on [WebManza Ecommerce Builder](https://webmanza.com/)
 
