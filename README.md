@@ -5,7 +5,7 @@
 
 [<img src="https://github-profile-trophy.vercel.app/?username=foridpathan" alt="foridpathan" />](https://github.com/foridpathan?tab=repositories)
 
-[<img src="https://img.shields.io/twitter/follow/forid45?logo=twitter&style=for-the-badge" alt="forid45" />](https://twitter.com/forid45){:target="_blank"}
+[<img src="https://img.shields.io/twitter/follow/forid45?logo=twitter&style=for-the-badge" alt="forid45" />](https://twitter.com/forid45)
 
 - 🔭 I’m currently working on [WebManza Ecommerce Builder](https://webmanza.com/)
 
