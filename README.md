@@ -1,11 +1,11 @@
-## Hi 👋, I'm Faridul Islam
-### I am a Front End Development Lead Engineer at Toffee, Banglalink. I completed a bachelor's degree in computer science in engineering.
+# Hi 👋, I'm Faridul Islam
+## I am a Front End Development Lead Engineer at Toffee, Banglalink. I completed a bachelor's degree in computer science in engineering.
 
 <img src="https://komarev.com/ghpvc/?username=foridpathan&label=Profile%20views&color=0e75b6&style=flat" alt="foridpathan" />
 
 [<img src="https://github-profile-trophy.vercel.app/?username=foridpathan" alt="foridpathan" />](https://github.com/foridpathan?tab=repositories)
 
-[<img src="https://img.shields.io/twitter/follow/forid45?logo=twitter&style=for-the-badge" alt="forid45" />](https://twitter.com/forid45){:target="_blank" rel="noopener"}
+[<img src="https://img.shields.io/twitter/follow/forid45?logo=twitter&style=for-the-badge" alt="forid45" />](https://twitter.com/forid45){:target="_blank"}
 
 - 🔭 I’m currently working on [WebManza Ecommerce Builder](https://webmanza.com/)
 
