@@ -1,5 +1,5 @@
 # Hi 👋, I'm Faridul Islam
-** I am a Front End Development Lead Engineer at Toffee, Banglalink. I completed a bachelor's degree in computer science in engineering.
+<strong> I am a Front End Development Lead Engineer at Toffee, Banglalink. I completed a bachelor's degree in computer science in engineering.</strong>
 
 <img src="https://komarev.com/ghpvc/?username=foridpathan&label=Profile%20views&color=0e75b6&style=flat" alt="foridpathan" />
 
