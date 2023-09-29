@@ -19,10 +19,7 @@
 
 - 📫 How to reach me **foridpathan45@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+<a href="https://app.daily.dev/foridpathan"><img src="https://api.daily.dev/devcards/a24ea765fe9d4573b3490a96f959903b.png?r=11z" width="400" alt="Forid Pathan's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
